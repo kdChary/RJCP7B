@@ -1,0 +1,15 @@
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.suggestion {
+  color: #475569;
+  font-weight: 600;
+  font-size: 9px;
+}
+
+.arrow-image {
+  width: 17px;
+}
